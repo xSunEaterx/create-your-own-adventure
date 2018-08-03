@@ -197,5 +197,5 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 
 Se acercó al balcón sabiendo que no habría expresiones de alegría en los rostros de los recién llegados.
 
-    - [El rey había muerto.](crownless/death/rey.md)
-    - [El príncipe había muerto.](crownless/death/principe.md)
+   - [El rey había muerto.](crownless/death/rey.md)
+   - [El príncipe había muerto.](crownless/death/principe.md)
